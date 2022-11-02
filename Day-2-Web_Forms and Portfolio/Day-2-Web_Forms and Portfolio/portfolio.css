@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    font-size: 10px;
+
+    background:#fdf5fb ;
+}
+
+nav ul{
+    display: flex;
+    color: #182747;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    padding: 10px;
+}
+
+nav ul li{
+    margin: 20px 20px;
+}
+
+.logo-text{
+    font-size: 4em;
+    font-weight: 700;
+    color: #E14D2A;
+}
+
+#home{
+    background: #7FB77E;
+    color: #295e12;
+    display: flex;   
+}
+
+head div p{
+    font-size: large;
+    font-weight: 300;
+
+}
+h1{
+    font-size: 4em;
+    color: #E80F88;
+}
+
+h2{
+    font-size: 4em;
+    color: #E80F88;
+}
+
+h3{
+    font-size: 4em;
+    color: #E80F88;
+}
+
+h4{
+    font-size: 4em;
+    color: #E80F88;
+}
+
+article p{
+    font-size: 2em;
+
+}
+section h2 #bio image{
+    width: 200px;
+    height: 800px;
+    border-radius: 80px;
+    margin: 100px;
+    display: flex;
+}
+.link-button:hover{
+    color:#ee3ae2;
+    
+}
+
+#portfolio div{
+    color: #E80F88;
+    /* background-color: #A7D2CB; */
+
+}
+div article img{
+    padding: 0.5px;
+
+}
